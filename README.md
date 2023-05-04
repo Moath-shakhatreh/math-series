@@ -6,6 +6,7 @@ Author: Mo'ath shakhatreh
 
 ### Links and Resources
 pull request link: 
+https://github.com/Moath-shakhatreh/math-series/pull/1
 
 back-end server url (when applicable)
 
